@@ -16,7 +16,7 @@
 
 ---
 
-## Hey, I'm Rishi
+## Hey, I'm Rishikesh Bagal
 
 B.Tech CSE student at MIT x Kalvium building full-stack products that ship — not just projects that sit on GitHub. I care about clean architecture, real AI integration, and writing code that holds up in production.
 
